@@ -4,5 +4,4 @@
 - Linear Graph depicting YOY:
     - Highlight most significant peaks and valleys and find significant events/holidays associated with them
 - DF showing month over month / week over week builds
-- Hypothesis: Highest peak for 2016 and 2017 would have been Superbowl week (Superbowl in SF February 7th)
-- Bonus: What is the revenue ($) per week and what lift was seen during the Superbowl.
+- Hypothesis: Highest peak for 2016 and 2017 would have been Superbowl week (Superbowl in SF February 7th). This would be considered an outlier.
